@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exact Facts</title>
+    <link href="/src/style.css" rel="stylesheet" />
+  </head>
+  <body
+    class="bg-blue-100 flex flex-col items-center min-h-screen p-4">
+    <header
+      class="text-2xl sm:text-4xl font-bold text-purple-700 my-6 text-center">
+      Exact Facts
+    </header>
+    <div class="bg-white p-4 sm:p-6 rounded-lg shadow-lg w-full max-w-md">
+      <div id="question" class="text-lg sm:text-2xl text-gray-900 mb-8"></div>
+      <div id="correct-answer" class="text-xl text-green-800 mt-4 hidden">
+        <!-- Correct answer will be displayed here -->
+      </div>
+      <input
+        type="number"
+        id="guess-input"
+        class="border border-gray-300 p-2 w-full mb-4"
+        placeholder="Enter your guess" />
+      <input
+        type="text"
+        id="nickname-input"
+        class="border border-gray-300 p-2 w-full mb-4"
+        placeholder="Enter your name (optional)" />
+      <button
+        id="submit-guess"
+        class="bg-purple-600 text-white px-4 py-2 rounded w-full mb-4">
+        Submit Guess
+      </button>
+      <div id="guess-buttons" class="hidden mb-4 space-x-2">
+        <button
+          id="over-button"
+          class="bg-blue-600 text-white px-2 py-1 rounded">
+          Over
+        </button>
+        <button
+          id="under-button"
+          class="bg-blue-600 text-white px-2 py-1 rounded">
+          Under
+        </button>
+        <button
+          id="exact-button"
+          class="bg-blue-600 text-white px-2 py-1 rounded">
+          Exact
+        </button>
+      </div>
+      <div id="guesses" class="mb-4">
+        <!-- List of guesses will be displayed here -->
+      </div>
+      <button
+        id="reveal-answer"
+        class="bg-green-600 text-white px-4 py-2 rounded w-full mb-4 hidden">
+        Reveal Answer
+      </button>
+      <button
+        id="new-question"
+        class="bg-blue-600 text-white px-4 py-2 rounded w-full mb-4">
+        Give me a new Fact
+      </button>
+    </div>
+    <div class="flex justify-between items-center max-w-md w-full">
+      <button
+        id="play-button"
+        class=" text-gray-600 px-4 py-2 rounded mt-4">
+        How to Play
+      </button>
+      <button
+        id="about-button"
+        class="text-gray-600 px-4 py-2 rounded mt-4">
+        About
+      </button>
+    </div>
+
+    <!-- How to Play Modal -->
+    <div
+      id="play-modal"
+      class="fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center hidden">
+      <div class="bg-white p-6 rounded-lg shadow-lg max-w-md w-full">
+        <h2 class="text-2xl font-bold mb-4">How to Play</h2>
+        <p class="mb-4">
+          This is a game best played with one or more friends. Answer the
+          question with your best guess, then others in the group will guess if
+          the real answer is Over that amount, Under that amount or Exactly
+          right. The game is played until you decide to stop or you run out of
+          friends or patience. Don't like the question, tap
+          <span class="font-semibold">Give me a new Fact</span>. Answers are correct
+          as of July 2024.
+        </p>
+        <button
+          id="close-play"
+          class="bg-pink-600 text-white px-4 py-2 rounded mt-4">
+          Close
+        </button>
+      </div>
+    </div>
+
+    <!-- About Modal -->
+    <div
+      id="about-modal"
+      class="fixed inset-0 bg-gray-800 bg-opacity-75 flex items-center justify-center hidden">
+      <div class="bg-white p-6 rounded-lg shadow-lg max-w-md w-full">
+        <h2 class="text-2xl font-bold mb-4">About</h2>
+        <p class="mb-4">
+          The
+          <a
+            href="https://lemonadamedia.com/show/threedom/"
+            class="font-medium text-sky-700"
+            >Threedom</a
+          >
+          crew played a version of this game on the episode
+          <a
+            href="https://omny.fm/shows/threedom/ive-done-cameos-can-you-milk-me"
+            class="text-sky-700 font-medium"
+            target="_blank"
+            >I've Done Cameos, Can You Milk Me?</a
+          >. Threedom-listener (Michael Bliss?) suggested it under the name
+          <span class="font-semibold">Dumb Over Under</span> who I hope doesn't
+          mind this version created by me. -
+          <a
+            href="https://shellen.com"
+            class="text-sky-700 font-medium"
+            target="_blank"
+            >Jason Shellen</a
+          >
+        </p>
+        <button
+          id="close-about"
+          class="bg-pink-600 text-white px-4 py-2 rounded mt-4">
+          Close
+        </button>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
