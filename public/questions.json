@@ -68,5 +68,412 @@
   { "question": "How many bones are in the human foot?", "answer": 26 },
   { "question": "How many bones are in the human skull?", "answer": 22 },
   { "question": "How many human chromosomes are there?", "answer": 46 },
-  { "question": "How many elements are in the human body?", "answer": 60 }
+  { "question": "How many elements are in the human body?", "answer": 60 },
+  { "question": "How many hearts does a worm have?", "answer": 5 },
+  { "question": "How many bones are in a giraffe's neck?", "answer": 7 },
+  {
+    "question": "How many times can a hummingbird's wings beat per second?",
+    "answer": 80
+  },
+  { "question": "How many squares are on a chessboard?", "answer": 64 },
+  { "question": "How many players are on a soccer team?", "answer": 11 },
+  {
+    "question": "How many points is a touchdown worth in American football?",
+    "answer": 6
+  },
+  { "question": "How many time zones are there in the world?", "answer": 24 },
+  { "question": "How many degrees are in a circle?", "answer": 360 },
+  { "question": "How many letters are in the Greek alphabet?", "answer": 24 },
+  {
+    "question": "How many colors are in the flag of the United States?",
+    "answer": 3
+  },
+  { "question": "How many Harry Potter books are there?", "answer": 7 },
+  { "question": "How many strings does a violin have?", "answer": 4 },
+  { "question": "How many keys are on a standard piano?", "answer": 88 },
+  { "question": "How many legs does an ant have?", "answer": 6 },
+  { "question": "How many countries are in the European Union?", "answer": 27 },
+  {
+    "question": "How many letters are in the longest English word?",
+    "answer": 45
+  },
+  { "question": "How many countries are in Africa?", "answer": 54 },
+  { "question": "How many minutes are in a day?", "answer": 1440 },
+  { "question": "How many players are on a basketball team?", "answer": 5 },
+  {
+    "question": "How many keys are on a standard computer keyboard?",
+    "answer": 104
+  },
+  { "question": "How many months have 31 days?", "answer": 7 },
+  { "question": "How many bones are in a shark's body?", "answer": 0 },
+  { "question": "How many teeth does a rabbit have?", "answer": 28 },
+  { "question": "How many seasons are in a year?", "answer": 4 },
+  { "question": "How many days are in a leap year?", "answer": 366 },
+  {
+    "question": "How many liters of blood are in the human body?",
+    "answer": 5
+  },
+  { "question": "How many stripes are on the American flag?", "answer": 13 },
+  { "question": "How many moons does Saturn have?", "answer": 82 },
+  { "question": "How many types of penguins are there?", "answer": 18 },
+  { "question": "How many pairs of chromosomes do humans have?", "answer": 23 },
+  { "question": "How many holes are on a standard golf course?", "answer": 18 },
+  { "question": "How many major islands make up Hawaii?", "answer": 8 },
+  { "question": "How many ounces are in a pound?", "answer": 16 },
+  { "question": "How many hours are in a week?", "answer": 168 },
+  {
+    "question": "How many continents are completely in the Northern Hemisphere?",
+    "answer": 2
+  },
+  { "question": "How many keys does a typewriter have?", "answer": 44 },
+  { "question": "How many chromosomes do dogs have?", "answer": 78 },
+  { "question": "How many feet are in a mile?", "answer": 5280 },
+  { "question": "How many inches are in a foot?", "answer": 12 },
+  { "question": "How many Nobel Prizes are awarded each year?", "answer": 6 },
+  {
+    "question": "How many squares are on a standard Rubik's Cube?",
+    "answer": 54
+  },
+  { "question": "How many feet are in a yard?", "answer": 3 },
+  {
+    "question": "How many elements are gases at room temperature?",
+    "answer": 11
+  },
+  { "question": "How many wings does a mosquito have?", "answer": 2 },
+  { "question": "How many arms does a starfish have?", "answer": 5 },
+  { "question": "How many years are in a millennium?", "answer": 1000 },
+  {
+    "question": "How many days did the Titanic sail before sinking?",
+    "answer": 4
+  },
+  { "question": "How many hearts does a worm have?", "answer": 5 },
+  { "question": "How many bones are in a giraffe's neck?", "answer": 7 },
+  {
+    "question": "How many times can a hummingbird's wings beat per second?",
+    "answer": 80
+  },
+  { "question": "How many squares are on a chessboard?", "answer": 64 },
+  { "question": "How many players are on a soccer team?", "answer": 11 },
+  {
+    "question": "How many points is a touchdown worth in American football?",
+    "answer": 6
+  },
+  { "question": "How many time zones are there in the world?", "answer": 24 },
+  { "question": "How many degrees are in a circle?", "answer": 360 },
+  { "question": "How many letters are in the Greek alphabet?", "answer": 24 },
+  {
+    "question": "How many colors are in the flag of the United States?",
+    "answer": 3
+  },
+  { "question": "How many Harry Potter books are there?", "answer": 7 },
+  { "question": "How many strings does a violin have?", "answer": 4 },
+  { "question": "How many keys are on a standard piano?", "answer": 88 },
+  { "question": "How many legs does an ant have?", "answer": 6 },
+  { "question": "How many countries are in the European Union?", "answer": 27 },
+  {
+    "question": "How many letters are in the longest English word?",
+    "answer": 45
+  },
+  { "question": "How many countries are in Africa?", "answer": 54 },
+  { "question": "How many minutes are in a day?", "answer": 1440 },
+  { "question": "How many players are on a basketball team?", "answer": 5 },
+  {
+    "question": "How many keys are on a standard computer keyboard?",
+    "answer": 104
+  },
+  { "question": "How many months have 31 days?", "answer": 7 },
+  { "question": "How many bones are in a shark's body?", "answer": 0 },
+  { "question": "How many teeth does a rabbit have?", "answer": 28 },
+  { "question": "How many seasons are in a year?", "answer": 4 },
+  { "question": "How many days are in a leap year?", "answer": 366 },
+  {
+    "question": "How many planets are in the Milky Way?",
+    "answer": 100000000000
+  },
+  {
+    "question": "How many liters of blood are in the human body?",
+    "answer": 5
+  },
+  { "question": "How many stripes are on the American flag?", "answer": 13 },
+  { "question": "How many moons does Saturn have?", "answer": 82 },
+  { "question": "How many types of penguins are there?", "answer": 18 },
+  { "question": "How many pairs of chromosomes do humans have?", "answer": 23 },
+  { "question": "How many holes are on a standard golf course?", "answer": 18 },
+  { "question": "How many major islands make up Hawaii?", "answer": 8 },
+  { "question": "How many ounces are in a pound?", "answer": 16 },
+  { "question": "How many hours are in a week?", "answer": 168 },
+  {
+    "question": "How many continents are completely in the Northern Hemisphere?",
+    "answer": 2
+  },
+  { "question": "How many keys does a typewriter have?", "answer": 44 },
+  { "question": "How many chromosomes do dogs have?", "answer": 78 },
+  { "question": "How many feet are in a mile?", "answer": 5280 },
+  { "question": "How many inches are in a foot?", "answer": 12 },
+  { "question": "How many Nobel Prizes are awarded each year?", "answer": 6 },
+  {
+    "question": "How many squares are on a standard Rubik's Cube?",
+    "answer": 54
+  },
+  { "question": "How many feet are in a yard?", "answer": 3 },
+  {
+    "question": "How many elements are gases at room temperature?",
+    "answer": 11
+  },
+  { "question": "How many wings does a mosquito have?", "answer": 2 },
+  { "question": "How many arms does a starfish have?", "answer": 5 },
+  { "question": "How many years are in a millennium?", "answer": 1000 },
+  {
+    "question": "How many days did the Titanic sail before sinking?",
+    "answer": 4
+  },
+  { "question": "How many rings does Saturn have?", "answer": 7 },
+  { "question": "How many rings are there in the Olympic logo?", "answer": 5 },
+  { "question": "How many time zones does Russia have?", "answer": 11 },
+  {
+    "question": "How many Great Lakes are there in North America?",
+    "answer": 5
+  },
+  { "question": "How many degrees are there in a right angle?", "answer": 90 },
+  { "question": "How many countries are in South America?", "answer": 12 },
+  { "question": "How many sides does a nonagon have?", "answer": 9 },
+  { "question": "How many eyes does a dragonfly have?", "answer": 5 },
+  { "question": "How many noses does a slug have?", "answer": 4 },
+  {
+    "question": "How many pairs of legs do millipedes have per body segment?",
+    "answer": 2
+  },
+  {
+    "question": "How many dimples are on a standard golf ball?",
+    "answer": 336
+  },
+  {
+    "question": "How many keys are on a standard MacBook keyboard?",
+    "answer": 78
+  },
+  { "question": "How many teeth do elephants have?", "answer": 26 },
+  { "question": "How many eyes does a horseshoe crab have?", "answer": 10 },
+  { "question": "How many bridges are in Venice?", "answer": 391 },
+  { "question": "How many chambers does a cow's stomach have?", "answer": 4 },
+  { "question": "How many eyes does a coconut crab have?", "answer": 6 },
+  {
+    "question": "How many notes are in a standard musical octave?",
+    "answer": 8
+  },
+  {
+    "question": "How many players are on a standard volleyball team?",
+    "answer": 6
+  },
+  { "question": "How many dots are on a standard domino set?", "answer": 168 },
+  {
+    "question": "How many cards are in a standard deck (excluding jokers)?",
+    "answer": 52
+  },
+  { "question": "How many lines are in a limerick?", "answer": 5 },
+  { "question": "How many strings does a ukulele have?", "answer": 4 },
+  { "question": "How many pairs of wings does a fly have?", "answer": 1 },
+  { "question": "How many legs does a lobster have?", "answer": 10 },
+  {
+    "question": "How many chambers are in a revolver's cylinder?",
+    "answer": 6
+  },
+  {
+    "question": "How many dots are used in the Braille representation of numbers?",
+    "answer": 6
+  },
+  { "question": "How many sides does a stop sign have?", "answer": 8 },
+  { "question": "How many players are on an ice hockey team?", "answer": 6 },
+  { "question": "How many rings are on the Olympic flag?", "answer": 5 },
+  { "question": "How many strings does a cello have?", "answer": 4 },
+  { "question": "How many teeth does an adult horse have?", "answer": 40 },
+  { "question": "How many dots are on a pair of dice?", "answer": 42 },
+  { "question": "How many white keys are on a standard piano?", "answer": 52 },
+  { "question": "How many legs does a kangaroo have?", "answer": 4 },
+  { "question": "How many wheels does a tricycle have?", "answer": 3 },
+  { "question": "How many wheels does a tandem bicycle have?", "answer": 2 },
+  { "question": "How many strings does a standard banjo have?", "answer": 5 },
+  {
+    "question": "How many lines are on a standard American football field?",
+    "answer": 98
+  },
+  { "question": "How many sides does a heptagon have?", "answer": 7 },
+  {
+    "question": "How many colors are in a set of traffic lights?",
+    "answer": 3
+  },
+  {
+    "question": "How many spaces are on a standard Monopoly board?",
+    "answer": 40
+  },
+  {
+    "question": "How many teeth does a great white shark have?",
+    "answer": 300
+  },
+  { "question": "How many keys are on a standard clarinet?", "answer": 17 },
+  { "question": "How many legs does an octopus have?", "answer": 8 },
+  { "question": "How many wings does a butterfly have?", "answer": 4 },
+  { "question": "How many pedals does a standard piano have?", "answer": 3 },
+  { "question": "How many stars are on the flag of New Zealand?", "answer": 4 },
+  {
+    "question": "How many strings does a standard mandolin have?",
+    "answer": 8
+  },
+  { "question": "How many sides does a dollar coin have?", "answer": 2 },
+  {
+    "question": "How many spikes are on the Statue of Liberty's crown?",
+    "answer": 7
+  },
+  { "question": "How many rings does the planet Uranus have?", "answer": 13 },
+  {
+    "question": "How many dots are in the letter 'S' in Morse code?",
+    "answer": 3
+  },
+  { "question": "How many stars are on the flag of China?", "answer": 5 },
+  { "question": "How many faces does a cube have?", "answer": 6 },
+  { "question": "How many hearts does an earthworm have?", "answer": 5 },
+  { "question": "How many legs does a scorpion have?", "answer": 8 },
+  { "question": "How many strings does a standard harp have?", "answer": 47 },
+  { "question": "How many sides does a standard pencil have?", "answer": 6 },
+  { "question": "How many colors are in a standard rainbow?", "answer": 7 },
+  { "question": "How many toes does a cat have?", "answer": 18 },
+  {
+    "question": "How many strings does a standard double bass have?",
+    "answer": 4
+  },
+  {
+    "question": "How many sides does a standard hexagonal pencil have?",
+    "answer": 6
+  },
+  { "question": "How many claws does a cat have?", "answer": 18 },
+  { "question": "How many tentacles does a jellyfish have?", "answer": 0 },
+  { "question": "How many leaves does a typical shamrock have?", "answer": 3 },
+  {
+    "question": "How many stars are on the flag of the European Union?",
+    "answer": 12
+  },
+  { "question": "How many legs does a seahorse have?", "answer": 0 },
+  { "question": "How many pairs of wings does a honeybee have?", "answer": 2 },
+  {
+    "question": "How many stars are on the Hollywood Walk of Fame?",
+    "answer": 2700
+  },
+  { "question": "How many keys are on a standard accordion?", "answer": 120 },
+  {
+    "question": "How many hurdles are in a 110-meter hurdle race?",
+    "answer": 10
+  },
+  { "question": "How many sides does a standard barrel have?", "answer": 2 },
+  {
+    "question": "How many teeth does a great white shark have on average?",
+    "answer": 300
+  },
+  {
+    "question": "How many leaves does a typical four-leaf clover have?",
+    "answer": 4
+  },
+  { "question": "How many horns does a rhinoceros have?", "answer": 2 },
+  { "question": "How many legs does a butterfly have?", "answer": 6 },
+  { "question": "How many teeth does an adult cat have?", "answer": 30 },
+  {
+    "question": "How many strings does a standard acoustic guitar have?",
+    "answer": 6
+  },
+  {
+    "question": "How many dots are on a standard six-sided die?",
+    "answer": 21
+  },
+  {
+    "question": "How many players are on a standard cricket team?",
+    "answer": 11
+  },
+  {
+    "question": "How many lanes are in an Olympic swimming pool?",
+    "answer": 8
+  },
+  {
+    "question": "How many teeth does an adult human typically have?",
+    "answer": 32
+  },
+  { "question": "How many sides does a standard stop sign have?", "answer": 8 },
+  {
+    "question": "How many keys are on a standard computer numeric keypad?",
+    "answer": 17
+  },
+  { "question": "How many legs does a lobster have?", "answer": 10 },
+  { "question": "How many strings does a standard violin have?", "answer": 4 },
+  { "question": "How many faces does a standard d20 die have?", "answer": 20 },
+  { "question": "How many quarts are in a gallon?", "answer": 4 },
+  { "question": "How many fluid ounces are in a cup?", "answer": 8 },
+  { "question": "How many tablespoons are in a fluid ounce?", "answer": 2 },
+  { "question": "How many teaspoons are in a tablespoon?", "answer": 3 },
+  { "question": "How many quarters make a dollar?", "answer": 4 },
+  { "question": "How many cents are in a quarter?", "answer": 25 },
+  { "question": "How many days are in a fortnight?", "answer": 14 },
+  { "question": "How many players are on a water polo team?", "answer": 7 },
+  { "question": "How many balls are in a set of pool balls?", "answer": 16 },
+  { "question": "How many pins are used in ten-pin bowling?", "answer": 10 },
+  { "question": "How many holes are on a standard belt?", "answer": 5 },
+  {
+    "question": "How many spokes are on the Wheel of Fortune wheel?",
+    "answer": 24
+  },
+  {
+    "question": "How many squares are on a standard Scrabble board?",
+    "answer": 225
+  },
+  {
+    "question": "How many pieces does each player start with in chess?",
+    "answer": 16
+  },
+  { "question": "How many yards are in a mile?", "answer": 1760 },
+  { "question": "How many inches are in a yard?", "answer": 36 },
+  { "question": "How many pints are in a gallon?", "answer": 8 },
+  { "question": "How many fluid ounces are in a pint?", "answer": 16 },
+  { "question": "How many legs does a spider have?", "answer": 8 },
+  { "question": "How many hearts does an octopus have?", "answer": 3 },
+  { "question": "How many talons does an eagle have?", "answer": 8 },
+  { "question": "How many tentacles does an octopus have?", "answer": 8 },
+  { "question": "How many legs does a crab have?", "answer": 10 },
+  { "question": "How many sides does a pentagon have?", "answer": 5 },
+  { "question": "How many sides does a decagon have?", "answer": 10 },
+  {
+    "question": "How many months have 28 days (not counting leap years)?",
+    "answer": 1
+  },
+  {
+    "question": "How many teeth does a great white shark have on average?",
+    "answer": 300
+  },
+  {
+    "question": "How many individual keys are on a standard piano?",
+    "answer": 88
+  },
+  {
+    "question": "How many strings does a standard bass guitar have?",
+    "answer": 4
+  },
+  {
+    "question": "How many dots are in a standard set of dominoes?",
+    "answer": 168
+  },
+  { "question": "How many pawns does each player have in chess?", "answer": 8 },
+  { "question": "How many stars are on the flag of Australia?", "answer": 6 },
+  { "question": "How many sides does a standard pencil have?", "answer": 6 },
+  {
+    "question": "How many stars are there on the Hollywood Walk of Fame?",
+    "answer": 2700
+  },
+  { "question": "How many legs does a lobster have?", "answer": 10 },
+  { "question": "How many strings does a standard ukulele have?", "answer": 4 },
+  { "question": "How many chambers are in a cow's stomach?", "answer": 4 },
+  { "question": "How many leaves does a typical shamrock have?", "answer": 3 },
+  { "question": "How many legs does a centipede have?", "answer": 100 },
+  { "question": "How many toes does a typical bird have?", "answer": 8 },
+  { "question": "How many keys are on a standard accordion?", "answer": 120 },
+  { "question": "How many years are in a decade?", "answer": 10 },
+  { "question": "How many years are in a century?", "answer": 100 },
+  { "question": "How many sides does a cube have?", "answer": 6 },
+  { "question": "How many vertices does a cube have?", "answer": 8 },
+  { "question": "How many edges does a cube have?", "answer": 12 },
+  { "question": "How many faces does a tetrahedron have?", "answer": 4 }
 ]
