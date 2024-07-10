@@ -11,3 +11,6 @@ This is currently extremely dumb because it's hard coded to a .json with 100 fac
 
 Currently deploys to Netlify at https://exactfacts.netlify.app when pushed to Github.
 
+# log
+
+- 2024-July-09: Initial commit, added 400 facts to the json file, published and shared to friends, added Google Analytics.
